@@ -1,5 +1,6 @@
 package store;
 
 public class Product4 {
-	//ローカルディポジトリの修正内容
+	//ローカルリポジトリの修正内容
+	//リモートリポジトリの修正内容
 }
